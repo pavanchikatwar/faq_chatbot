@@ -1,4 +1,5 @@
-FAQ Chatbot for E-commerce Website
+**FAQ Chatbot for E-commerce Website
+**
 Project Overview
 This FAQ chatbot is designed to automate the process of answering frequently asked questions on an e-commerce website, offering quick, accurate, and helpful responses to customers. The chatbot is integrated with a simple and easy-to-use web interface, providing 24/7 support for users visiting the website, improving customer experience and reducing the burden on customer service teams.
 
