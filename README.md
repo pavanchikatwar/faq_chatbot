@@ -10,7 +10,7 @@ This **FAQ chatbot** is designed to automate the process of answering frequently
 - **Dynamic Content**: The system allows for easy updates to the FAQ database, ensuring the chatbot answers questions based on the most current information.
 - **Fallback Mechanism**: In case the chatbot cannot answer a question, it provides a default response or suggests contacting customer support.
 
-## 🛠 Python Libraries Used:
+## Python Libraries Used:
 
 ### Pandas (`pd`)
 - Used to read and manipulate the FAQ data stored in a CSV file (`faq_data.csv`).
