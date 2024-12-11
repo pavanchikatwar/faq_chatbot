@@ -10,12 +10,18 @@ This **FAQ chatbot** is designed to automate the process of answering frequently
 - **Dynamic Content**: The system allows for easy updates to the FAQ database, ensuring the chatbot answers questions based on the most current information.
 - **Fallback Mechanism**: In case the chatbot cannot answer a question, it provides a default response or suggests contacting customer support.
 
-## Technologies Used
-### Natural Language Processing (NLP):
-- **Transformers library** for pre-trained models like BERT or GPT for understanding and responding to user input.
+## 🛠 Python Libraries Used:
 
-### Frontend Technologies:
-- **Streamlit** for the web interface.
+### Pandas (`pd`)
+- Used to read and manipulate the FAQ data stored in a CSV file (`faq_data.csv`).
+
+### Scikit-learn
+- **`TfidfVectorizer`**: Converts text data (FAQ questions) into numerical vectors for similarity computation.
+- **`cosine_similarity`**: Measures similarity between the user's query and FAQ questions using cosine similarity scores.
+
+### Streamlit (`st`)
+- Provides an interactive web interface for the chatbot, enabling users to input questions and receive answers dynamically.
+
 
 ## Functionality
 1. **User Query Input**: Users can type questions into the chatbot interface.
