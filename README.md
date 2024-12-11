@@ -85,3 +85,4 @@ Analytics Dashboard: Implement a dashboard for administrators to monitor user qu
 Conclusion
 The FAQ chatbot offers a great starting point for integrating AI-powered customer support into an e-commerce website. By providing automated answers to frequently asked questions, the chatbot enhances user experience while reducing the load on human support agents. The chatbot is easy to integrate, update, and scale, making it a powerful tool for any e-commerce platform.
 
+![Screenshot (118)](https://github.com/user-attachments/assets/093aa9d1-a8cc-4e85-9806-390cac385186)
