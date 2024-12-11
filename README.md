@@ -44,9 +44,21 @@ The following dependencies are required to run the project:
 
 ## Conclusion
 The **FAQ chatbot** offers a great starting point for integrating AI-powered customer support into an e-commerce website. By providing automated answers to frequently asked questions, the chatbot enhances user experience while reducing the load on human support agents. The chatbot is easy to integrate, update, and scale, making it a powerful tool for any e-commerce platform.
+
+
+
 ![Screenshot (123)](https://github.com/user-attachments/assets/08d87c5c-82c4-4dec-a921-5816ccd9d7ca)
+
+---
+
 ![Screenshot (124)](https://github.com/user-attachments/assets/a35f12f4-7ccd-4a32-9f50-d8fb8e5e62a1)
+
+---
+
 ![Screenshot (121)](https://github.com/user-attachments/assets/179e3c80-0c1e-40d4-a00f-61ce85a85158)
+
+---
+
 ![Screenshot (122)](https://github.com/user-attachments/assets/a34d6e3f-7127-4ae8-b25d-b175c9beb75e)
 
 
